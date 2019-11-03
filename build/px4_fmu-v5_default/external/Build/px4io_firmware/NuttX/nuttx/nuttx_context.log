@@ -1,0 +1,8 @@
+No .version file found, creating one
+LN: include/arch to arch/arm/include
+LN: include/arch/board to /home/xj/007/007/Firmware/build/px4_fmu-v5_default/external/Build/px4io_firmware/NuttX/nuttx/../nuttx-config/include
+LN: include/arch/chip to arch/arm/include/stm32
+LN: arch/arm/src/board to /home/xj/007/007/Firmware/build/px4_fmu-v5_default/external/Build/px4io_firmware/NuttX/nuttx/../nuttx-config/src
+LN: arch/arm/src/chip to arch/arm/src/stm32
+LN: platform/board to /home/xj/007/007/Firmware/build/px4_fmu-v5_default/external/Build/px4io_firmware/NuttX/apps/platform/dummy
+LN: platform/board to /home/xj/007/007/Firmware/build/px4_fmu-v5_default/external/Build/px4io_firmware/NuttX/apps/platform/dummy

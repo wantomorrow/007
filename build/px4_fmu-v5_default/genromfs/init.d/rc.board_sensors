@@ -1,0 +1,15 @@
+mpu6000 -R 8 -s -T 20602 start
+mpu6000 -R 8 -z -T 20689 start
+bmi055 -A -R 10 start
+bmi055 -G -R 10 start
+ist8310 -C -b 1 start
+ist8310 -C -b 2 start
+hmc5883 -C -T -X start
+qmc5883 -X start
+lis3mdl -X start
+if ! icm20948 -X -M -R 6 start
+then
+ak09916 -X -R 6 start
+fi
+ist8310 -C -b 5 start
+ms5611 -s start

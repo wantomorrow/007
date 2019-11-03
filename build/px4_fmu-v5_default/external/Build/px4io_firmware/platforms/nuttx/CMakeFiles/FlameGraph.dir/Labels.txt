@@ -1,0 +1,13 @@
+# Target labels
+ FlameGraph
+# Source files and their labels
+/home/xj/007/007/Firmware/build/px4_fmu-v5_default/external/Build/px4io_firmware/platforms/nuttx/CMakeFiles/FlameGraph
+/home/xj/007/007/Firmware/build/px4_fmu-v5_default/external/Build/px4io_firmware/platforms/nuttx/CMakeFiles/FlameGraph.rule
+/home/xj/007/007/Firmware/build/px4_fmu-v5_default/external/Build/px4io_firmware/platforms/nuttx/CMakeFiles/FlameGraph-complete.rule
+/home/xj/007/007/Firmware/build/px4_fmu-v5_default/external/Build/px4io_firmware/external/Stamp/FlameGraph/FlameGraph-install.rule
+/home/xj/007/007/Firmware/build/px4_fmu-v5_default/external/Build/px4io_firmware/external/Stamp/FlameGraph/FlameGraph-mkdir.rule
+/home/xj/007/007/Firmware/build/px4_fmu-v5_default/external/Build/px4io_firmware/external/Stamp/FlameGraph/FlameGraph-download.rule
+/home/xj/007/007/Firmware/build/px4_fmu-v5_default/external/Build/px4io_firmware/external/Stamp/FlameGraph/FlameGraph-update.rule
+/home/xj/007/007/Firmware/build/px4_fmu-v5_default/external/Build/px4io_firmware/external/Stamp/FlameGraph/FlameGraph-patch.rule
+/home/xj/007/007/Firmware/build/px4_fmu-v5_default/external/Build/px4io_firmware/external/Stamp/FlameGraph/FlameGraph-configure.rule
+/home/xj/007/007/Firmware/build/px4_fmu-v5_default/external/Build/px4io_firmware/external/Stamp/FlameGraph/FlameGraph-build.rule

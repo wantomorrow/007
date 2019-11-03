@@ -1,0 +1,8 @@
+ekf2 start
+vtol_att_control start
+mc_att_control start
+mc_pos_control start
+fw_att_control start
+fw_pos_control_l1 start
+airspeed_selector start
+land_detector start vtol
